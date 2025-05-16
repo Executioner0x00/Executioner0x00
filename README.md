@@ -1,4 +1,4 @@
-#👋 Hello!
+# 👋 Hello!
 This is my profile, And this is what I do.
 
 💻 - Tech.
@@ -7,5 +7,5 @@ This is my profile, And this is what I do.
 <br>
 🗃️ - Collecting malware for fun
 
-#🔗 Links
+# 🔗 Links
 📺 - https://www.youtube.com/@Jazzstuff0
