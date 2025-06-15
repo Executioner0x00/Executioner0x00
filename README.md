@@ -10,6 +10,7 @@ Welcome to my Github profile! :D
 # 🔗 Links
 📺 - https://www.youtube.com/@Executioner0x3F
 
+# 🎚️ Stats
+![Executioner's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
-# IITTYAFD
-![Screenshot 2025-05-15 021924](https://github.com/user-attachments/assets/a48e8113-245a-49fe-8ced-175b779f39ad)
+![Executioner's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
